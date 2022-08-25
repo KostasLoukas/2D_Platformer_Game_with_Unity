@@ -9,7 +9,7 @@ when the player has successfully gone through the three waves of the invasion.
 
 This game was created by [Konstantinos Loukas](https://github.com/KostasLoukas) with the support of the Brackeys development team
 (grateful for their excellent tutorial videos) and is free to use for anyone willing to expand and/or commercialize the product, 
-though I will advice you to watch Brackeys' development videos and create one for yourselves (that way, it will be less like stealing
+though I will advise you to watch Brackeys' development videos and create one for yourselves (that way, it will be less like stealing
  and more like creating your own game from scratch and acquiring some hands-on experience ^_^).
 
 All assets included are Free-To-Use for any commercial or other use.
