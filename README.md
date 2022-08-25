@@ -13,6 +13,7 @@ though I will advise you to watch Brackeys' development videos and create one fo
  and more like creating your own game from scratch and acquiring some hands-on experience ^_^).
 
 All assets included are Free-To-Use for any commercial or other use.
+The assets can be found here: https://devassets.com/assets/2d-mega-pack/
 
 ![Windows Screenshot 2022 08 25 - 19 11 50 06](https://user-images.githubusercontent.com/105225491/186716496-fe7428aa-67d2-4890-bec6-0557b2037319.png)
 
