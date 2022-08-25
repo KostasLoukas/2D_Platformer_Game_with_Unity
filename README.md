@@ -7,7 +7,10 @@ The game features a main menu, a main level (where the player battles against th
 can upgrade his health and speed attributes), a game over screen when player's lives reach zero and a end game menu which appears 
 when the player has successfully gone through the three waves of the invasion.
 
-This project was created by 
+This game was created by [Konstantinos Loukas](https://github.com/KostasLoukas) with the support of the Brackeys development team
+(grateful for their excellent tutorial videos) and is free to use for anyone willing to expand and/or commercialize the product, 
+though I will advice you to watch Brackeys' development videos and create one for yourselves (that way, it will be less like stealing
+ and more like creating your own game from scratch and acquire some hands-on experience :)).
 
 All assets included are Free-To-Use for any commercial or other use.
 
