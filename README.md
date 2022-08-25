@@ -3,6 +3,12 @@
 This a 2D Platformer game created with Unity 2019. The project contains the compiled game as well as the solution that
 can be imported into Unity. The executable file is in the /Builds/Windows/x64/Alien Invasion x64/ folder.
 
+The game features a main menu, a main level (where the player battles against the alien invasion), an upgrade menu (where the player
+can upgrade his health and speed attributes), a game over screen when player's lives reach zero and a end game menu which appears 
+when the player has successfully gone through the three waves of the invasion.
+
+This project was created by 
+
 All assets included are Free-To-Use for any commercial or other use.
 
 ![Windows Screenshot 2022 08 25 - 19 11 50 06](https://user-images.githubusercontent.com/105225491/186716496-fe7428aa-67d2-4890-bec6-0557b2037319.png)
