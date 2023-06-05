@@ -1,6 +1,6 @@
 # Alien Invasion
 
-This a 2D Platformer game created with Unity 2019.4.20f1. The project contains the solution that can be 
+This is a 2D Platformer game created with Unity 2019.4.20f1. The project contains the solution that can be 
 imported into Unity as well as the compiled game. The executable file is in the /Builds/Windows/x64/Alien Invasion x64 folder.
 
 The game features a main menu, a main level (where the player battles against the alien invasion), an upgrade menu (where the player
