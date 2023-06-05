@@ -30,3 +30,4 @@ The assets that were used were included in the 2D Mega Pack which can be found h
 
 ![Windows Screenshot 2022 08 25 - 19 12 32 62](https://user-images.githubusercontent.com/105225491/186716999-f13774fa-5eac-4b42-aa86-4dbdbed37860.png)
 
+You can also find this game on itch.io: https://kostasloukas.itch.io/alien-invasion
